@@ -24,4 +24,5 @@ To play Express Match Race, simply download the repository and run it on your Fl
 ```bash
 git clone https://github.com/your-username/express-match-race.git](https://github.com/Anishh-Joshi/Express-Match-Race.git)https://github.com/Anishh-Joshi/Express-Match-Race.git
 cd express-match-race
+flutter pug get
 flutter run
